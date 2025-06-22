@@ -1,0 +1,11 @@
+%c= character
+%d= decimal number(base 10)
+%e= exponential floating point number
+%f= floating point number
+%i integer (base10)
+%= octal number(base 8)
+%s= string
+%u= unsigned decimal (integer) number
+%x= Hexadecimal number(base 16)
+%t= date/time
+%n= NewLine
